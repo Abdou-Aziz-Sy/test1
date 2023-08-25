@@ -1,0 +1,9 @@
+<resources>
+    <string name="ajouter_un_">
+Ajouter un article
+</string>
+    <string name="simpleblog">
+SimpleBlog
+</string>
+    <string name="app_name">My Application</string>
+</resources>
